@@ -10,15 +10,15 @@ text-shadow: rgba(0,0,0,0.8);
 .id li{
 
     will-change: contents;
-	color:  #000000;
-	font-family: sans-serif;
+	color:  #000033;
+	font-family: arial;
 	font-size: 400%;
 	margin-top: 10%;
 	border-style: solid;
     background-color: rgba(255,255,255,0.8);
 }
 header{
-color: #000000;
+color: #000033;
 }
 
 h1
